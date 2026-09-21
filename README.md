@@ -28,7 +28,7 @@ pass
 
 # Testing
 As the package itself (not the dependencies though) is pure Python, the built wheels should be compatible with every version of Python greater or equal than the
-Python version used to build them (so 3.14.6).
+Python version used to build them (so 3.12.10).
 
 ## License
 Code is licenced under the MIT license provided in the `LICENSE` document.
